@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Desmond and I hold a Master's degree in Artificial Intelligence. I have a strong passion for applying Data Science and AI to healthcare, industries, and productivity. My recent projects include:
+I am Desmond and I hold a Master's degree in Artificial Intelligence. I have a strong passion for applying Data Science and AI to healthcare, finance, industry, and productivity enhancement. My recent projects include:
 
 - 🩺 AI-Powered Chatbot for Chronic Kidney Disease Prediction and Management
 - Equipment Failure Prediction with Machine Learning
