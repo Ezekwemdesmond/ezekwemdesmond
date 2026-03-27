@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2b6cb0,100:38b2ac&amp;height=200&amp;section=header&amp;text=Ezekwem%20Desmond&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Scientist%20%7C%20Healthcare%20%7C%20Finance%20%7C%20Productivity&amp;descAlignY=58&amp;descSize=18" width="100%"/>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B6CB0&center=true&vCenter=true&width=750&lines=AI+%26+Data+Scientist+%7C+Data+Analyst;Healthcare+%7C+Finance+%7C+Productivity;RAG+Pipelines+%7C+Machine+Learning+%7C+Power+BI;MSc+Artificial+Intelligence+%7C+Based+in+the+UK)](https://git.io/typing-svg)
 
