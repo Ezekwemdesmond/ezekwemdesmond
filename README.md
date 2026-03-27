@@ -34,8 +34,6 @@ My work sits at the intersection of **AI engineering** and **domain impact**: I 
 | [**NHS Antidepressant Prescribing Analysis**](https://github.com/Ezekwemdesmond/NHS-Antidepressant-Prescribing-Analysis) | End-to-end analytics of 445M prescription items (£1.20bn) across 7 NHS England regions (2021–2025) — ETL pipeline, MySQL star schema, Prophet forecasting, and Power BI dashboard. | `Python` `MySQL` `Prophet` `Power BI` `ETL` |
 | [**Olist E-Commerce Analytics**](https://github.com/Ezekwemdesmond/olist-ecommerce-powerbi) | Power BI analytics platform for 100K orders — star schema data model, 71 DAX measures, and 4-page interactive dashboards with AI-powered Key Influencers. | `Power BI` `DAX` `Star Schema` `Power Query` |
 | [**Money Mule Detection**](https://github.com/Ezekwemdesmond/Money-Mule-Account-Detection-Analysis) | ML-based financial fraud detection system for identifying money mule accounts from transactional behaviour patterns. | `Python` `scikit-learn` `Jupyter` |
-| [**Equipment Failure Prediction**](https://github.com/Ezekwemdesmond/Equipment-Failure-Prediction-with-ML) | Predictive maintenance model that forecasts industrial equipment failures using supervised learning on sensor telemetry data. | `Python` `ML` `Jupyter` |
-| [**AI Attendance Register**](https://github.com/Ezekwemdesmond/AI-Face-Detection-Enrollment-and-Attendance-Register) | Real-time face detection system for automated student enrollment and attendance tracking using computer vision. | `Python` `OpenCV` `Face Recognition` |
 
 ---
 
