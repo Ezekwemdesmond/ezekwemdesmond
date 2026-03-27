@@ -30,7 +30,7 @@ My work sits at the intersection of **AI engineering** and **domain impact**: I 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**KidneyCareAI**](https://github.com/Ezekwemdesmond/Chronic-Kidney-Disease-Chatbot) | RAG-powered CKD risk chatbot with a Random Forest classifier (~98% accuracy) grounded in KDIGO clinical guidelines. Deployed on Google Cloud Run. | `Python` `Flask` `LangChain` `OpenAI` `Pinecone` `Docker` |
+| [**KidneyCareAI**](https://github.com/Ezekwemdesmond/Chronic-Kidney-Disease-Chatbot) | RAG-powered CKD risk chatbot with a Random Forest classifier (~98% accuracy) grounded in KDIGO clinical guidelines. | `Python` `Flask` `LangChain` `OpenAI` `Pinecone` `Docker` |
 | [**NHS Antidepressant Prescribing Analysis**](https://github.com/Ezekwemdesmond/NHS-Antidepressant-Prescribing-Analysis) | End-to-end analytics of 445M prescription items (£1.20bn) across 7 NHS England regions (2021–2025) — ETL pipeline, MySQL star schema, Prophet forecasting, and Power BI dashboard. | `Python` `MySQL` `Prophet` `Power BI` `ETL` |
 | [**Olist E-Commerce Analytics**](https://github.com/Ezekwemdesmond/olist-ecommerce-powerbi) | Power BI analytics platform for 100K orders — star schema data model, 71 DAX measures, and 4-page interactive dashboards with AI-powered Key Influencers. | `Power BI` `DAX` `Star Schema` `Power Query` |
 | [**Money Mule Detection**](https://github.com/Ezekwemdesmond/Money-Mule-Account-Detection-Analysis) | ML-based financial fraud detection system for identifying money mule accounts from transactional behaviour patterns. | `Python` `scikit-learn` `Jupyter` |
