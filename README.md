@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:38b2ac&height=200&section=header&text=Ezekwem%20Desmond&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Scientist%20%7C%20Healthcare%20%7C%20Finance%20%7C%20Productivity&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2b6cb0,100:38b2ac&amp;height=200&amp;section=header&amp;text=Ezekwem%20Desmond&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20Data%20Scientist%20%7C%20Healthcare%20%7C%20Finance%20%7C%20Productivity&amp;descAlignY=58&amp;descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2B6CB0&center=true&vCenter=true&width=750&lines=AI+%26+Data+Scientist+%7C+Data+Analyst;Healthcare+%7C+Finance+%7C+Productivity;RAG+Pipelines+%7C+Machine+Learning+%7C+Power+BI;MSc+Artificial+Intelligence+%7C+Based+in+the+UK)](https://git.io/typing-svg)
 
@@ -73,8 +73,8 @@ My work sits at the intersection of **AI engineering** and **domain impact**: I 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezekwemdesmond&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekwemdesmond&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezekwemdesmond&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekwemdesmond&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight&amp;hide_border=true"/>
 
 </div>
 
@@ -100,5 +100,5 @@ I'm actively seeking roles in **AI Engineering**, **Data Science**, and **Data A
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38b2ac,100:2b6cb0&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:38b2ac,100:2b6cb0&amp;height=100&amp;section=footer" width="100%"/>
 </div>
