@@ -33,7 +33,8 @@ My work sits at the intersection of **AI engineering** and **domain impact**: I 
 | [**KidneyCareAI**](https://github.com/Ezekwemdesmond/Chronic-Kidney-Disease-Chatbot) | RAG-powered CKD risk chatbot with a Random Forest classifier (~98% accuracy) grounded in KDIGO clinical guidelines. | `Python` `Flask` `LangChain` `OpenAI` `Pinecone` `Docker` |
 | [**NHS Antidepressant Prescribing Analysis**](https://github.com/Ezekwemdesmond/NHS-Antidepressant-Prescribing-Analysis) | End-to-end analytics of 445M prescription items (£1.20bn) across 7 NHS England regions (2021–2025) — ETL pipeline, MySQL star schema, Prophet forecasting, and Power BI dashboard. | `Python` `MySQL` `Prophet` `Power BI` `ETL` |
 | [**Olist E-Commerce Analytics**](https://github.com/Ezekwemdesmond/olist-ecommerce-powerbi) | Power BI analytics platform for 100K orders — star schema data model, 71 DAX measures, and 4-page interactive dashboards with AI-powered Key Influencers. | `Power BI` `DAX` `Star Schema` `Power Query` |
-| [**Money Mule Detection**](https://github.com/Ezekwemdesmond/Money-Mule-Account-Detection-Analysis) | ML-based financial fraud detection system for identifying money mule accounts from transactional behaviour patterns. | `Python` `scikit-learn` `Jupyter` |
+| [**Uk Employment Law Change Detector**](https://github.com/Ezekwemdesmond/Uk-Employment-Law-Change-Detector) | A REST API that tracks updates on legislation.gov.uk, uses BERT-based classification to detect significant changes in UK employment law, and provides structured compliance insights for SMEs. | `Python` `FastAPI` `BeautifulSoup` |
+| [**Uk Regulation Monitor**](https://github.com/Ezekwemdesmond/uk-reg-monitor) | A Python package that tracks significant changes in UK legislation and sends alerts through email, Slack, or webhooks, using the UK Employment Law Change Detector API. | `Python` `Pypi`  |
 
 ---
 
